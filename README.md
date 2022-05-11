@@ -41,9 +41,9 @@ Splash Screen
 
 🛠️ Features
 
-Permite relatar feedbacks do tipo "erro", "ideias", "outros"
-Permite o usuário tirar um print da tela que ele está, facilitando a resoluções de problemas ou ideias
-Ao final do envio dos feedbacks, eles são enviados por e-mail para o dono do site
+Permite relatar feedbacks do tipo "erro", "ideias", "outros";
+Permite o usuário tirar um print da tela que ele está, facilitando a resoluções de problemas ou ideias;
+Ao final do envio dos feedbacks, eles são enviados por e-mail para o dono do site;
 
 
 
