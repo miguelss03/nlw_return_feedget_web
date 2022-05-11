@@ -1,6 +1,6 @@
 # nlw_return_feedget_web
 Projeto desenvolvido na semana NLW return, usando React/React-Native
-Você pode vizualizar esse projeto em produção so seguinte link: https://nlw-return-feedget-web-seven.vercel.app/
+Você pode vizualizar esse projeto em produção no seguinte link: https://nlw-return-feedget-web-seven.vercel.app/
 
 
 https://user-images.githubusercontent.com/69445570/167904018-3644db37-94e1-4efe-962c-ac06c60caa72.mp4
